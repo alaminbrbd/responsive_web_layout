@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Light background for better readability */
+    color: #333; /* Dark gray text for better contrast */
+}
+
+h1{
+    color: #1a237e; /* A deeper navy for a more elegant look */
+    text-align: center;
+    font-size: 2.5rem; /* Larger, more prominent font size */
+    margin-top: 20px; /* Add some breathing space */
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 18px; /* Slightly smaller font for better readability */
+    font-weight: 400; /* Medium font weight for balance */
+    line-height: 1.8; /* Comfortable line spacing */
+    color: #ffffff; /* White text for good contrast */
+    margin: 15px 30px; /* Consistent margin for layout */
+    padding: 15px; /* Adequate padding for spacing */
+    background-color: #00796b; /* Rich teal for a modern aesthetic */
+    border-radius: 8px; /* Rounded corners for a softer look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.images{
+    padding: 50px 0;
+}
+
+.container{
+    margin:0 auto;
+    overflow: hidden;
+    width: 960px;
+    border: 1px solid red;
+}
+
+.img_item{
+    box-sizing: border-box;
+    float:left;
+    width:25%;
+    padding: 0 3px;
+} 
+
+.img_item img{
+    width: 100%;
+}

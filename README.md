@@ -1,3 +1,3 @@
 # responsive_web_layout
 
-url: 
+url: https://alaminbrbd.github.io/responsive_web_layout/
